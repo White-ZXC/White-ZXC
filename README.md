@@ -10,7 +10,7 @@ White-ZXC/White-ZXC is a ✨ special ✨ repository: its README appears on your 
 _Minimalist Geek · Open-Source Advocate · National Security Red Team (learning)_
 
 > "万物互联的智能世界"
-> _An intelligent world where everything connects._
+> _Building a Fully Connected, Intelligent World_
 
 ---
 
